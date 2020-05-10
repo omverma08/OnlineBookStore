@@ -9,6 +9,7 @@ public class OnlinebookStoreApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OnlinebookStoreApplication.class, args);
 		System.out.println("hello-world");
+		System.out.println("hello-world");
 	}
 
 }
