@@ -106,5 +106,5 @@ Thumbs.db
 !.editorconfig
 !.phpcs.xml.dist
 
-/angular-bookStore/node_modules/
-/onlinebookStore/target/
+
+.angular-bookStore/node_modules
